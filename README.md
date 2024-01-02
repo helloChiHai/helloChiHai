@@ -8,8 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/helloChiHai?tab=repositories](https://github.com/helloChiHai?tab=repositories)
 
-- 💬 Ask me about **Flutter and PHP Laravel**
-
 - 📫 How to reach me **vuongchihai0711@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
